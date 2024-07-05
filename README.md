@@ -26,7 +26,6 @@ This application is a simple server and client message system implemented in C++
 
 ## Prerequisites
 
-- A C++ compiler (e.g., g++)
 - POSIX-compliant operating system (e.g., Linux)
 
 
